@@ -25,10 +25,10 @@ Ce projet avait pour but de recréer le jeu de société [Symbioz](https://www.t
 |:--:| 
 | Représentation graphique en temps réel du jeu |
 
-| ![https://github.com/aurelien-castel/DUT-Oct-2019-Jardin/blob/master/images/UseCaseDiagram.png?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-Jardin/blob/master/images/UseCaseDiagram.png?raw=true) | 
+| ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true) | 
 |:--:| 
 | Diagramme de cas d'usage du projet |
 
-| ![https://github.com/aurelien-castel/DUT-Oct-2019-Jardin/blob/master/images/SprintBoard.png?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-Jardin/blob/master/images/SprintBoard.png?raw=true) | 
+| ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/SprintBoard.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/SprintBoard.png?raw=true) | 
 |:--:| 
 | Sprint board |
