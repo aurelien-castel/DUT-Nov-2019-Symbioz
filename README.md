@@ -13,8 +13,8 @@ javac Main.java
 java Main
 ```
 Pour relancer une nouvelle fois il faut supprimer les .class
-| Sous winsdows  |                 Sous linux                 |
-| :------------: | :----------------------------------------: |
+| Sous winsdows | Sous linux |
+| :--: | :--: |
 | del /s *.class | find . -name \`*.class\` -exec rm -f {} \; |
 
 ## Résumé du projet
@@ -22,13 +22,13 @@ Ce projet avait pour but de recréer le jeu de société [Symbioz](https://www.t
 
 ## Images du projet
 | ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/GameBoard.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/GameBoard.png?raw=true) | 
-|:--:| 
+| :--: | 
 | Représentation graphique en temps réel du jeu |
 
 | ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true) | 
-|:--:| 
-| Diagramme de cas d'usage du projet |
+| :--: | 
+| Diagramme de classes du projet |
 
 | ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/SprintBoard.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/SprintBoard.png?raw=true) | 
-|:--:| 
+| :--: | 
 | Sprint board |
