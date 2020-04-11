@@ -18,7 +18,7 @@ Pour relancer une nouvelle fois il faut supprimer les .class
 | del /s *.class | find . -name \`*.class\` -exec rm -f {} \; |
 
 ## Résumé du projet
-Ce projet avait pour but de recréer le jeu de société [Symbioz](https://www.trictrac.net/jeu-de-societe/symbioz) en java. Le jeu est représenté graphiquement par une fenêtre et les intéractions avec les joueurs sont prises via le terminal. Il y a la possibilité de jouer à plusieurs ou face à des bots aléatoires. Pour ce projet, nous étions composés de 6 étudiants et nous avons utilisé la méthode agile et Scrum. Nous avons fait des sprints de 2 semaines et noté les tâches à effectuer sur un sprint board
+Ce projet avait pour but de recréer le jeu de société [Symbioz](https://www.trictrac.net/jeu-de-societe/symbioz) en java. Le jeu est représenté graphiquement par une fenêtre et les intéractions avec les joueurs sont prises via le terminal. Il y a la possibilité de jouer à plusieurs ou face à des bots aléatoires. Pour ce projet, nous étions composés de 6 étudiants et nous avons utilisé la méthode agile et Scrum. Nous avons fait des sprints de 2 semaines et noté les tâches à effectuer sur un sprint board.
 
 ## Images du projet
 | ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/GameBoard.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/GameBoard.png?raw=true) | 
