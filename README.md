@@ -25,7 +25,7 @@ Ce projet avait pour but de recréer le jeu de société [Symbioz](https://www.t
 | :--: | 
 | Représentation graphique en temps réel du jeu |
 
-| ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/UseCaseDiagram.png?raw=true) | 
+| ![https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/ClassDiagram.png?raw=true](https://github.com/aurelien-castel/DUT-Nov-2019-Symbioz/blob/master/images/ClassDiagram.png?raw=true) | 
 | :--: | 
 | Diagramme de classes du projet |
 
